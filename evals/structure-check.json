@@ -1,0 +1,19 @@
+{
+  "a": {
+    "approved_sentence_present": true,
+    "quoted_sentence_present": true
+  },
+  "b": {
+    "approved_sentence_present": true,
+    "quoted_sentence_present": true
+  },
+  "c": {
+    "approved_sentence_present": true,
+    "quoted_sentence_present": true
+  },
+  "package": {
+    "all_references_exist": true,
+    "main_lines": 58,
+    "expression_reference_routed": true
+  }
+}
